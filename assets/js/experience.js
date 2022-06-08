@@ -62,10 +62,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Caritas",
+    cardImage: "assets/images/experience-page/download.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Zajmowałam się zbiórką pieniędzy dla potrzebujących.",
   },
   {
     title: "StudentCode-in 2020",
